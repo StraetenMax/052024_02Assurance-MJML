@@ -37,6 +37,18 @@
         </mj-style>
 </mj-head>
 <mj-body background-color="#edf2f7">
+        <mj-section background-color="#4A5568" padding="0">
+        <mj-group width="480px">
+            <mj-column width="30%" padding="8px">
+                <mj-image padding="0" align="right" width="50px" src="src/img/logoESA.jpg" alt="Logo ESA (École Supérieure des Assurances)" />
+            </mj-column>
+            <mj-column width="70%" padding="8px"> 
+                <mj-text padding="0" font-size="16px" font-weight="300" line-height="20px" color="#F7FAFC">
+                    Ecosup Assurance partenaire de l'ESA <em>(École Supérieure d'Assurance)</em>
+                </mj-text>
+            </mj-column>
+        </mj-group>
+        </mj-section>
 <!--Logo et réseau sociaux-->
         <mj-section background-color="#ffffff" padding="0">
             <mj-column width="250px">
@@ -53,7 +65,7 @@
                     <span style="color:#D30000;">Nouveau</span> Poste à pourvoir
                 </mj-text>
                 <mj-text mj-class="D_Title" align="center">
-                    Alternance Attaché(e) commercial(e) TPE/PME
+                    Alternance Chargé(e) commercial(e) TPE/PME
                 </mj-text>
             </mj-column>
         </mj-section>    
@@ -63,10 +75,10 @@
                 <strong style="text-transform:uppercase;color:#684092;">Entreprise :</strong> Groupe international et indépendant, qui crée et gère des solutions innovantes en assurances de personnes pour les particuliers, les professionnels et les entreprises.
                 </mj-text>
                 <mj-text mj-class="D_Text D_RBL">
-                    <strong style="text-transform:uppercase;color:#684092;">Lieu :</strong> Villeneuve d'Ascq
+                    <strong style="text-transform:uppercase;color:#684092;">Lieu :</strong> Tourcoing
                 </mj-text>
                 <mj-text mj-class="D_Text D_RBL">
-                    <strong style="text-transform:uppercase;color:#684092">Durée :</strong> 12 à 24 mois
+                    <strong style="text-transform:uppercase;color:#684092">Durée :</strong> 12 mois
                 </mj-text>
                 <mj-text mj-class="D_Text D_RBL">
                     <strong style="text-transform:uppercase;color:#684092;">Mission :</strong>
