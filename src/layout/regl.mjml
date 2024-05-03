@@ -1,0 +1,13 @@
+<mj-section background-color="#edf2f7">
+    <mj-column width="380px">
+        <mj-text align="center" mj-class="D_Footer D_RL">
+            Pour être sûr(e) de recevoir nos communications, ajoutez <span style="text-decoration:none;color:#2D3748">contact@ecosup-campus.fr</span> dans votre carnet d'adresses.
+        </mj-text>
+        <mj-text align="center" mj-class="D_Footer D_RL">
+            <a style="text-decoration:none;color:#684092;" href="{{ mirror }}">Afficher dans ton navigateur</a>
+        </mj-text>
+        <mj-text align="center" mj-class="D_Footer D_RL" text-transform="uppercase">
+            <a style="text-decoration:none;color:#684092;" href="{{ unsubscribe }}">Se désinscrire</a>
+        </mj-text>
+    </mj-column>
+</mj-section>

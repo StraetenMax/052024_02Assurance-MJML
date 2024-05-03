@@ -1,0 +1,103 @@
+<mjml>
+    <mj-head>
+    <!--title-->
+         <mj-title>Annonce Alternance Ecosup Assurance</mj-title>
+    <!--font-->
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <!--bloquer Dark mode-->
+        <mj-raw>
+            <meta name="color-scheme" content="light"></meta>
+            <meta name="supported-color-schemes" content="light"></meta>
+        </mj-raw>
+    <!--attributes-->
+        <mj-attributes>
+            <mj-all font-family="Roboto, Arial, Helvetica, sans-serif" />
+            <mj-class name="D_Title" font-size="38px" font-weight="300" line-height="42px" color="#684092"/>
+            <mj-class name="D_SousTitle" font-size="16px" font-weight="900" line-height="20px" text-transform="uppercase" color="#684092"/>
+            <mj-class name="D_Text" font-size="16px" font-weight="400" line-height="20px" color="#2D3748"/>
+            <mj-class name="D_Footer" font-size="12px" font-weight="400" line-height="16px" color="#2D3748"/> 
+            <mj-class name="D_RL" padding-top="0" padding-bottom="0"/>
+            <mj-class name="D_RBL" padding-left="0" padding-right="0" padding-bottom="0"/>
+            <mj-button font-size="16px" font-weight="500" line-height="20px" background-color="#ba4995"></mj-button>  
+        </mj-attributes>
+    <!--breakpoint-->
+        <mj-breakpoint width="550px" />
+    <!--style-->
+        <mj-style>
+         .hover:hover td, .hover:hover a{ 
+                background-color:#684092 !important;
+            }
+        @media only screen and (max-width:550px){
+            .M_Padding {
+                padding-left:17px !important;
+                padding-right:17px !important;
+                padding-top:10px !important;
+            }
+        }
+        </mj-style>
+</mj-head>
+<mj-body background-color="#edf2f7">
+<!--Logo et réseau sociaux-->
+        <mj-section background-color="#ffffff" padding="0">
+            <mj-column width="250px">
+                <mj-image src="https://img.mailinblue.com/3403292/images/content_library/original/6631e75e524b5b6d34b88b1b.png" alt="logo Ecosup assurance" />
+            </mj-column>
+        </mj-section>
+<!--Corps de l'annonce-->
+        <mj-section background-color="#ffffff" padding="0">
+            <mj-column width="480px">
+                <mj-text font-size="16px" font-weight="300" line-height="20px" color="#2D3748">
+                    {{contact.PRENOM}} cette annonce correspond à votre recherche d'une alternance dans les métiers de l'assurance et de la banque.
+                </mj-text>
+                <mj-text mj-class="D_SousTitle">
+                    <span style="color:#D30000;">Nouveau</span> Poste à pourvoir
+                </mj-text>
+                <mj-text mj-class="D_Title" align="center">
+                    Alternance Attaché(e) commercial(e) TPE/PME
+                </mj-text>
+            </mj-column>
+        </mj-section>    
+        <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
+            <mj-column width="359px" padding="8px">
+                <mj-text mj-class="D_Text" padding="0">
+                <strong style="text-transform:uppercase;color:#684092;">Entreprise :</strong> Groupe international et indépendant, qui crée et gère des solutions innovantes en assurances de personnes pour les particuliers, les professionnels et les entreprises.
+                </mj-text>
+                <mj-text mj-class="D_Text D_RBL">
+                    <strong style="text-transform:uppercase;color:#684092;">Lieu :</strong> Villeneuve d'Ascq
+                </mj-text>
+                <mj-text mj-class="D_Text D_RBL">
+                    <strong style="text-transform:uppercase;color:#684092">Durée :</strong> 12 à 24 mois
+                </mj-text>
+                <mj-text mj-class="D_Text D_RBL">
+                    <strong style="text-transform:uppercase;color:#684092;">Mission :</strong>
+                </mj-text>
+                <mj-text mj-class="D_Text" padding="0">
+                    - Je mets en place des <strong>contrats Santé et Prévoyance</strong> sur le segment TPE/PME.
+                </mj-text>
+                <mj-text mj-class="D_Text" padding="0"> 
+                    - J'effectue la <strong>traçabilité de l'activité commerciale</strong> (contacts, devis, statut...) et son suivi à travers les outils.
+                </mj-text>
+                <mj-text mj-class="D_Text" padding="0">
+                    - J'accompagne des entreprises dans la <strong>mise en place des régimes de protection sociale</strong> : Conseil et vente à distance des produits dans le respect de la politique commerciale du groupe.
+                </mj-text>
+                <mj-text mj-class="D_Text" padding="0">
+                    - Je réalise les <strong>actions de prospection</strong> et de multi équipement.
+                </mj-text>
+            </mj-column>
+            <mj-column width="159px" padding="8px">
+                <mj-image padding="0" width="159px" src="https://img.mailinblue.com/3403292/images/content_library/original/6631e765524b5b6d34b88b1d.jpg" alt="Étudiante en BTS alternance" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff">
+            <mj-column width="600px">
+                <mj-button css-class="hover" href="https://ecosup-assurance.fr/attache-commercial-tpe-pme/">
+                    Postuler maintenant
+                </mj-button>
+                
+            </mj-column>
+        </mj-section>
+<!--footer-->
+        <mj-include path="layout/address.mjml" />
+        <mj-include path="layout/regl.mjml" />
+    </mj-body>
+</mjml>

@@ -1,0 +1,11 @@
+<mj-section padding-bottom="0" background-color="#edf2f7">
+    <mj-column  width="235px">
+        <mj-image padding="0px" width="120px" src="https://img.mailinblue.com/3403292/images/content_library/original/660d606e373b24d832a39719.png" href="https://ecosup-campus.fr" alt="logo Ecosup Campus" />
+        <mj-text align="center" mj-class="D_Footer D_RL">
+            17 place Charles et Albert Roussel
+        </mj-text>
+        <mj-text align="center" mj-class="D_Footer D_RL" text-transform="uppercase">
+            59200 tourcoing
+        </mj-text>
+    </mj-column>
+</mj-section>

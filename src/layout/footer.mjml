@@ -1,0 +1,36 @@
+<mj-section background-color="#edf2f7">
+    <mj-column width="380px">
+        <mj-social inner-padding="0 20px" icon-size="25px" mode="horizontal">
+            <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
+            <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupAssurance" alt="Facebook"></mj-social-element>
+            <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png"  href="https://www.instagram.com/ecosup.campus" alt="Instagram"></mj-social-element>
+            <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d60657236a3846ef846ba.png" href="https://www.youtube.com/@EcoSupAssurance" alt="Youtube"></mj-social-element>
+        </mj-social>
+    </mj-column>
+</mj-section>
+        <!--Adresse-->
+<mj-section padding-bottom="0" background-color="#edf2f7">
+    <mj-column  width="235px">
+        <mj-image padding="0px" width="120px" src="https://img.mailinblue.com/3403292/images/content_library/original/660d606e373b24d832a39719.png" href="https://ecosup-campus.fr" alt="logo Ecosup Campus" />
+        <mj-text align="center" mj-class="D_Footer D_RL">
+            17 place Charles et Albert Roussel
+        </mj-text>
+        <mj-text align="center" mj-class="D_Footer D_RL" text-transform="uppercase">
+            59200 tourcoing
+        </mj-text>
+    </mj-column>
+</mj-section>
+        <!--Reglement-->
+<mj-section background-color="#edf2f7">
+    <mj-column width="380px">
+        <mj-text align="center" mj-class="D_Footer D_RL">
+            Pour être sûr(e) de recevoir nos communications, ajoute contact@ecosup-campus.fr dans ton carnet d'adresses.
+        </mj-text>
+        <mj-text align="center" mj-class="D_Footer D_RL">
+            <a href="{{ mirror }}">Afficher dans ton navigateur</a>
+        </mj-text>
+        <mj-text align="center" mj-class="D_Footer D_RL">
+            <a href="{{ unsubscribe }}">Se désinscrire</a>
+        </mj-text>
+    </mj-column>
+</mj-section>
