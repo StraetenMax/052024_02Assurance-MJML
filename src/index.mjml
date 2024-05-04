@@ -64,7 +64,7 @@
                 <mj-text mj-class="D_SousTitle">
                     <span style="color:#D30000;">Nouveau</span> Poste à pourvoir
                 </mj-text>
-                <mj-text mj-class="D_Title" align="center">
+                <mj-text mj-class="D_Title" align="center" letter-spacing="-1px">
                     Alternance Chargé(e) de clientèles professionnelles
                 </mj-text>
             </mj-column>
@@ -81,19 +81,25 @@
                     <strong style="text-transform:uppercase;color:#684092">Durée :</strong> 12 mois
                 </mj-text>
                 <mj-text mj-class="D_Text D_RBL">
-                    <strong style="text-transform:uppercase;color:#684092;">Mission :</strong>
+                    <strong style="text-transform:uppercase;color:#684092;">Missions :</strong>
                 </mj-text>
                 <mj-text mj-class="D_Text" padding="0">
-                    - Je participe à la souscription des contrats.
+                    - Je participe à la <strong>souscription des contrats</strong>,
                 </mj-text>
                 <mj-text mj-class="D_Text" padding="0"> 
-                    - Je réalise l'étude des risques et l'élaboration de projets en collaboration avec le chargé de clientèle,
+                    - Je réalise l'<strong>étude des risques</strong> et l'<strong>élaboration de projets</strong> en collaboration avec le chargé de clientèles,
                 </mj-text>
                 <mj-text mj-class="D_Text" padding="0">
-                    - J'accompagne des entreprises dans la <strong>mise en place des régimes de protection sociale</strong> : Conseil et vente à distance des produits dans le respect de la politique commerciale du groupe.
+                    - Je gère les <strong>contrats donnés</strong> par le responsable de service (avenants, régularisation, surveillance des majorations),
                 </mj-text>
                 <mj-text mj-class="D_Text" padding="0">
-                    - Je réalise les <strong>actions de prospection</strong> et de multi équipement.
+                    - J'effectue des <strong>actions ponctuelles sur le portefeuille</strong>,
+                </mj-text>
+                <mj-text mj-class="D_Text" padding="0">
+                    - Je mets à jour les <strong>fichiers clients</strong> et le <strong>suivi administratif</strong>,
+                </mj-text>
+                <mj-text mj-class="D_Text" padding="0">
+                    - Je collecte des informations sur les compagnies pouvant avoir un impact sur notre activité.
                 </mj-text>
             </mj-column>
             <mj-column width="159px" padding="8px">
