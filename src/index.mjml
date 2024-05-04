@@ -111,8 +111,39 @@
                 <mj-button css-class="hover" href="https://ecosup-assurance.fr/chargee-clienteles-professionnelles/">
                     Postuler maintenant
                 </mj-button>
-                
             </mj-column>
+        </mj-section>
+<!--logo entreprises partenaires-->
+        <mj-section  padding-bottom="0" background-color="#718096">
+        <mj-column width="518px" padding="8px">
+            <mj-text mj-class="D_SousTitle" padding="0">
+                <span style="color:#ffffff;">Nos entreprises partenaires en alternance</span>
+            </mj-text>
+        </mj-column>
+            <mj-group width="518px">
+                <mj-column width="172px" padding="8px">
+                    <mj-image padding="0" src="src/img/G_Allianz.jpg" alt="logo Allianz" />
+                </mj-column>
+                <mj-column width="172px" padding="8px">
+                    <mj-image padding="0" src="src/img/G_HENNER.jpg" alt="logo Groupe Henner" />
+                </mj-column>
+                <mj-column width="172px" padding="8px">
+                    <mj-image padding="0" src="src/img/GG_SwissLife.jpg" alt="logo SwissLife" />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section padding-top="0" background-color="#718096">
+            <mj-group width="518px">
+                <mj-column width="172px" padding="8px">
+                    <mj-image padding="0" src="src/img/GG_SMA.jpg" alt="logo SMA" />
+                </mj-column>
+                <mj-column width="172px" padding="8px">
+                    <mj-image padding="0" src="src/img/G_AXA1.jpg" alt="logo AXA" />
+                </mj-column>
+                <mj-column width="172px" padding="8px">
+                    <mj-image padding="0" src="src/img/G_CreditAgricole.jpg" alt="logo Crédit Agricole" />
+                </mj-column>
+            </mj-group>
         </mj-section>
 <!--footer-->
         <mj-include path="layout/address.mjml" />
