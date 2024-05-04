@@ -15,7 +15,7 @@
             <mj-class name="D_Title" font-size="38px" font-weight="300" line-height="42px" color="#684092"/>
             <mj-class name="D_SousTitle" font-size="16px" font-weight="900" line-height="20px" text-transform="uppercase" color="#684092"/>
             <mj-class name="D_Text" font-size="16px" font-weight="400" line-height="20px" color="#2D3748"/>
-            <mj-class name="D_Footer" font-size="12px" font-weight="400" line-height="16px" color="#2D3748"/> 
+            <mj-class name="D_Footer" font-size="12px" font-weight="400" line-height="16px" color="#ffffff"/> 
             <mj-class name="D_RL" padding-top="0" padding-bottom="0"/>
             <mj-class name="D_RBL" padding-left="0" padding-right="0" padding-bottom="0"/>
             <mj-button font-size="16px" font-weight="500" line-height="20px" background-color="#ba4995"></mj-button>  
