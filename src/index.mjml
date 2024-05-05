@@ -40,7 +40,7 @@
         <mj-section background-color="#4A5568" padding="0">
         <mj-group width="480px">
             <mj-column width="30%" padding="8px">
-                <mj-image padding="0" align="right" width="50px" src="src/img/logoESA.jpg" alt="Logo ESA (École Supérieure des Assurances)" />
+                <mj-image padding="0" align="right" width="50px" src="https://i.ibb.co/xYKFMzh/logoESA.jpg" alt="Logo ESA (École Supérieure des Assurances)" />
             </mj-column>
             <mj-column width="70%" padding="8px"> 
                 <mj-text padding="0" font-size="16px" font-weight="300" line-height="20px" color="#F7FAFC">
@@ -72,7 +72,7 @@
         <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
             <mj-column width="359px" padding="8px">
                 <mj-text mj-class="D_Text" padding="0">
-                <strong style="text-transform:uppercase;color:#684092;">Entreprise :</strong> Groupe international et indépendant, qui crée et gère des solutions innovantes en assurances de personnes pour les particuliers, les professionnels et les entreprises.
+                <strong style="text-transform:uppercase;color:#684092;">Entreprise :</strong> Groupe familial et indépendant dispose de services dans le secteur d'activité IARD-Risques Entreprise (transport maritime, multirisque, flotte automobile, marchandises transportées, bris de machine...).
                 </mj-text>
                 <mj-text mj-class="D_Text D_RBL">
                     <strong style="text-transform:uppercase;color:#684092;">Lieu :</strong> Tourcoing
@@ -103,7 +103,7 @@
                 </mj-text>
             </mj-column>
             <mj-column width="159px" padding="8px">
-                <mj-image padding="0" width="159px" src="src/img/jeune-femme-assurances.jpg" alt="Étudiante en BTS alternance" />
+                <mj-image padding="0" width="159px" src="https://i.ibb.co/DDkhWcv/jeune-femme-assurances.jpg" alt="Étudiante en BTS alternance" />
             </mj-column>
         </mj-section>
         <mj-section background-color="#ffffff">
@@ -122,30 +122,31 @@
         </mj-column>
             <mj-group width="518px">
                 <mj-column width="172px" padding="8px">
-                    <mj-image padding="0" src="src/img/G_Allianz.jpg" alt="logo Allianz" />
+                    <mj-image padding="0" src="https://i.ibb.co/mcbYWCB/G-Allianz.jpg" alt="logo Allianz" />
                 </mj-column>
                 <mj-column width="172px" padding="8px">
-                    <mj-image padding="0" src="src/img/G_HENNER.jpg" alt="logo Groupe Henner" />
+                    <mj-image padding="0" src="https://i.ibb.co/tXkd5WQ/G-HENNER.jpg" alt="logo Groupe Henner" />
                 </mj-column>
                 <mj-column width="172px" padding="8px">
-                    <mj-image padding="0" src="src/img/GG_SwissLife.jpg" alt="logo SwissLife" />
+                    <mj-image padding="0" src="https://i.ibb.co/sjtrmH8/GG-Swiss-Life.jpg" alt="logo SwissLife" />
                 </mj-column>
             </mj-group>
         </mj-section>
         <mj-section padding-top="0" background-color="#718096">
             <mj-group width="518px">
                 <mj-column width="172px" padding="8px">
-                    <mj-image padding="0" src="src/img/GG_SMA.jpg" alt="logo SMA" />
+                    <mj-image padding="0" src="https://i.ibb.co/NghZ413/GG-SMA.jpg" alt="logo SMA" />
                 </mj-column>
                 <mj-column width="172px" padding="8px">
-                    <mj-image padding="0" src="src/img/G_AXA1.jpg" alt="logo AXA" />
+                    <mj-image padding="0" src="https://i.ibb.co/9V7ywWW/G-AXA1.jpg" alt="logo AXA" />
                 </mj-column>
                 <mj-column width="172px" padding="8px">
-                    <mj-image padding="0" src="src/img/G_CreditAgricole.jpg" alt="logo Crédit Agricole" />
+                    <mj-image padding="0" src="https://i.ibb.co/NZPRJtt/G-Credit-Agricole.jpg" alt="logo Crédit Agricole" />
                 </mj-column>
             </mj-group>
         </mj-section>
 <!--footer-->
+        <mj-include path="layout/reseauxsociaux.mjml" />
         <mj-include path="layout/address.mjml" />
         <mj-include path="layout/regl.mjml" />
     </mj-body>

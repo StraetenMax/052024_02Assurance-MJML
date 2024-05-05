@@ -6,7 +6,7 @@
         <mj-text align="center" mj-class="D_Footer D_RL">
             <a style="text-decoration:none;color:#ba4995;" href="{{ mirror }}">Afficher dans votre navigateur</a>
         </mj-text>
-        <mj-text align="center" mj-class="D_Footer D_RL" text-transform="uppercase">
+        <mj-text align="center" mj-class="D_Footer D_RL" text-transform="uppercase" padding-bottom="25px">
             <a style="text-decoration:none;color:#ba4995;" href="{{ unsubscribe }}">Se désinscrire</a>
         </mj-text>
     </mj-column>
