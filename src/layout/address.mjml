@@ -1,6 +1,6 @@
 <mj-section padding-bottom="0" background-color="#4A5568">
     <mj-column  width="235px">
-        <mj-image padding="0px" width="120px" src="https://img.mailinblue.com/3403292/images/content_library/original/660d606e373b24d832a39719.png" href="https://ecosup-campus.fr" alt="logo Ecosup Campus" />
+        <mj-image padding="0px" width="120px" src="src/img/ECOSUP_CAMPUS_Blanc012024.png" href="https://ecosup-campus.fr" alt="logo Ecosup Campus" />
         <mj-text align="center" mj-class="D_Footer D_RL">
             17 place Charles et Albert Roussel
         </mj-text>
